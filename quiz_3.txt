@@ -1,0 +1,10 @@
+What is the capital of Australia?|Canberra
+Who wrote 'Pride and Prejudice'?|Jane Austen
+What is the currency of Japan?|Japanese Yen
+Which planet is known as the "Blue Planet"?|Earth
+How many continents are there in the world?|7
+What is the largest mammal in the world?|Blue Whale
+Who invented the telephone?|Alexander Graham Bell
+What is the chemical symbol for gold?|Au
+In what year did the Berlin Wall fall?|1989
+Who is known as the 'Father of Computer Science'?|Alan Turing
