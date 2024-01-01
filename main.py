@@ -4,7 +4,7 @@ import time
 from openai import OpenAI, APIError
 
 
-OPENAI_API_KEY = ""
+OPENAI_API_KEY = "Insert your API key, follow this link to get one: https://platform.openai.com/api-keys. Please follow the quick start section to get the best instruction"
 client = OpenAI()
 
 def generate_quiz(file):
